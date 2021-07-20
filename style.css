@@ -1,0 +1,19 @@
+.heading{
+width: 100%;
+margin-top: 0px;
+font-size: 30px;
+}
+.heading_2{
+    margin-top: 0px;
+    font-size: 20px;
+}
+input{
+    width: 30%;
+    text-align: center;
+    border: 5px solid aqua;
+}
+canvas {
+    border-radius: 10px;
+    box-shadow: 15px, 15px grey;
+    margin-top: 110px;
+    }
